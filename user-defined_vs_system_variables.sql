@@ -1,0 +1,1 @@
+set session max_connections = 1000;
